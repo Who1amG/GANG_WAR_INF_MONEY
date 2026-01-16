@@ -55,11 +55,7 @@ return(function(...)local w={"\051\086\099\068\056\102\078\102","\055\090\054\05
                  .;okKXXXXXXXXXXXXXXXXXXXXXXX0.:XXXXXXXXXXXXXXXXXXXXXXXXOo;.
                      .':ox0XXXXXXXXXXXXXXXXXXXoKXXXXXXXXXXXXXXXXXX0xo:'.
                            ..,:loxk0KXXXXXXXXXXXXXXXXXXXK0Oxdl:,..
-                                     ....'',,,,,,,''....
-
-
-
-
+                                     ....'',,,,,,,''....                                       ]]
 
                                                                                                              
                                                                                                        
