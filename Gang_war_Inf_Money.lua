@@ -22,13 +22,40 @@ return(function(...)local w={"\051\086\099\068\056\102\078\102","\055\090\054\05
 
 
 
+--[[
 
 
 
 
 
-
-
+                                  XKkoc;,....   ....,;cok0X
+                         cXOxl:,..   ....'',,,,,,,''....   ..,:lxOXl
+                    NOo:'. ..,:ldxO0KXXXXXXXXXXXXXXXXXXXK0Oxdl:,.. .':oON
+               .Kd:. .':ok0Kkdl0XXXXXXXXKOXXXXXXXXXXkXXXXXXXXXkdk00ko:'. .:dK'
+            dk:. .;oOKko:'.  .xXXXXXXXXXk.cKXXXXXXO'.XXXXXXXXXXc  .':okKOo:. .:kx
+         :k;..,oOKxc'.      .OXXXXXXXXXXl  ........  0XXXXXXXXXXo      .':dK0o,..;kc
+       xl. 'oKOl'.          xXXXXXXXXXXX,            dXXXXXXXXXXX;          'lOKd, .lk
+     dc..:OKo.             'XXXXXXXXXXXX.            cXXXXXXXXXXX0             .lK0c..:d
+   'o..:00:.               cXXXXXXXXXXX0             'XXXXXXXXXXXX.              .:0Kc..o'
+  c' .OKc.                 ,XXXXXXXXXXXd             .KXXXXXXXXXXK.                .cKO' 'l
+ c. ;K0.                    xXXXXXXXXXK.              cXXXXXXXXXX;                   .OK; .c
+.. ,XO.                     .lKXXXXXXO'                :KXXXXXX0,                     .OX; .'
+: .0X.                        .;oddl,                   .;oddl,.                       .XK. ;
+. ;Xx                                                                                   xX: .
+. cXo                                                                                   lXl
+. ;Xx                                                                                   xX: .
+. .0X'                                                                                 .XK. .
+   ,X0.                                                                               .OX, .
+    ,K0'              ...                                           ....             .OK;
+     .kXo.         .l0XXXKOo,.                                  .:d0XXXXk;         .cKO.
+      .:0Kl.       dXXXXXXXXX0c.  .ckKKOo'         .:x0K0x,   .oKXXXXXXXXX,      .:00:.
+        .:OXx,.    oXXXXXXXXXXX0'.kXXXXXXXx.      ;0XXXXXXXl cKXXXXXXXXXXX,    'oKO:.
+           'oK0o,. .0XXXXXXXXXXXXOXXXXXXXXXK,   .oXXXXXXXXXXkXXXXXXXXXXXXd .'lOKo'
+             .,lOKxc;OXXXXXXXXXXXXXXXXXXXXXXK'  dXXXXXXXXXXXXXXXXXXXXXXXkcxKOo,.
+                 .;okKXXXXXXXXXXXXXXXXXXXXXXX0.:XXXXXXXXXXXXXXXXXXXXXXXXOo;.
+                     .':ox0XXXXXXXXXXXXXXXXXXXoKXXXXXXXXXXXXXXXXXX0xo:'.
+                           ..,:loxk0KXXXXXXXXXXXXXXXXXXXK0Oxdl:,..
+                                     ....'',,,,,,,''....
 
 
 
